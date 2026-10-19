@@ -1,7 +1,7 @@
 # Gikomba Market Stall Performance Analysis
 
-**Full name:** [Replace with your full name]  
-**Cohort:** [Replace with your cohort]
+**Full name:** Stacy Sakat<br>
+**Cohort:** HPF Cohort
 
 Wanjiku runs a fresh-produce stall at Gikomba Market and has recorded 14 days of sales alongside rough stock quantities and reorder levels. She needs to understand whether the stall is growing, which days and products perform best, what to restock, and where to focus her effort. This analysis uses core Python to summarize sales, compare weekdays with weekends, classify daily performance, identify reorder alerts, and calculate product gross margins.
 
